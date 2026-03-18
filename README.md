@@ -76,10 +76,10 @@ ___
 
 ## 📫 Connect with Me   
 
-<a href="https://linkedin.com/in/your-link" target="_blank">
+<a href="https://www.linkedin.com/in/nipuna-basnayake-606160261/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:your-email@example.com" target="_blank">
+<a href="mailto:nipunbasnayake104@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://your-portfolio-link" target="_blank">
