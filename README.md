@@ -83,7 +83,7 @@ ___
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://your-portfolio-link" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-4AB04A?style=flat&logo=about.me&logoColor=white" alt="Portfolio" />
+  <img src="https://sangeeth-basnayake.netlify.appa/" alt="Portfolio" />
 </a>
 
 ---
