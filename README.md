@@ -82,8 +82,8 @@ ___
 <a href="mailto:nipunbasnayake104@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://sangeeth-basnayake.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white" alt="Portfolio" />
+<a href="https://sangeeth-basnayake.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-28a745?style=flat&logo=firefox&logoColor=white"/>
 </a>
 ---
 
