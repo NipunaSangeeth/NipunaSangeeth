@@ -82,10 +82,9 @@ ___
 <a href="mailto:nipunbasnayake104@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://your-portfolio-link" target="_blank">
-  <img src="https://sangeeth-basnayake.netlify.appa/" alt="Portfolio" />
+<a href="https://sangeeth-basnayake.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white" alt="Portfolio" />
 </a>
-
 ---
 
 ⭐ *"Turning ideas into reality, one commit at a time."*
